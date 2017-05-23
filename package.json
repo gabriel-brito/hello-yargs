@@ -1,0 +1,22 @@
+{
+  "name": "hello-yargs",
+  "version": "1.0.0",
+  "description": "yargs hello test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-brito/hello-yargs.git"
+  },
+  "author": "Yargs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-brito/hello-yargs/issues"
+  },
+  "homepage": "https://github.com/gabriel-brito/hello-yargs#readme",
+  "dependencies": {
+    "yargs": "^8.0.1"
+  }
+}
